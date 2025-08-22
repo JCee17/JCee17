@@ -11,9 +11,9 @@ Hi there 👋, I'm Juliann Christopher Soliza
 ---
 
 # 🛠️ Skills
-- **Languages:** Python, Dart, SQL  
+- **Languages:** Python, Dart  
 - **Frameworks/Tools:** Flask, Flutter, Git, GitHub  
-- **Other:** Database Management, Web Development Basics  
+
 
 ---
 
